@@ -1,0 +1,4 @@
+.env
+face/
+__pycache__/
+*.pyc
